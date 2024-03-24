@@ -1,0 +1,32 @@
+.appointment-box {
+  list-style-type: none;
+  font-family: 'Roboto';
+  width: 270px;
+  padding: 5px;
+  padding-left: 10px;
+  border: 2px solid #b5b7c4;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+
+.star-image {
+  background-color: transparent;
+  border: none;
+}
+
+.appointments-subheading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.date {
+  font-family: 'Roboto';
+  color: #b5b7c4;
+}
